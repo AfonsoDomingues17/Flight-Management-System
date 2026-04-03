@@ -48,6 +48,7 @@ Three optional filters can be applied to any query:
 mkdir build && cd build
 cmake ..
 make
+./GraphProject
 ```
 
 ## Tech
